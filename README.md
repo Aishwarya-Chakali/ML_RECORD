@@ -18,4 +18,3 @@ This repo contains solution notebooks of the Machine Learning Lab.
 | K-means:         |    K-meanslab.ipynb               |
 |Naive-bayes:      |    Naive_bayes.ipynb              |
 |SVM :             |    SVM-lab.ipynb                  |
-|------------------|-----------------------------------|
